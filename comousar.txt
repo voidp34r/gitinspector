@@ -1,0 +1,4 @@
+como usar o gitinspector:
+dependências: python e git, posso estar esquecendo de algo mas no mais é isso mesmo....
+python gitinspector.py --format=html --timeline --since=2013-09-01 -w /path/file/project/git > /path/file/file-name.html
+
